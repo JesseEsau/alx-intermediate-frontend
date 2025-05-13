@@ -50,7 +50,7 @@ I am following the tasks and instructions given by ALX to build a strong foundat
 
 ## 🙌 Acknowledgements
 
-Thanks to **ALX Africa** and all the technical guiding me in becoming a better web developer.
+Thanks to **ALX Africa** and all the technical mentors guiding me in becoming a better web developer.
 
 
 
