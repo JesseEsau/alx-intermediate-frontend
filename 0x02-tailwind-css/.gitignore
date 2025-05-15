@@ -1,0 +1,13 @@
+# Tailwind CLI output
+*.css.map
+
+# Dependencies
+node_modules/
+
+# Environment/configs
+.env
+.env.local
+
+# OS/Editor files
+.DS_Store
+.idea/
