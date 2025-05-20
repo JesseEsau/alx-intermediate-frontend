@@ -1,5 +1,6 @@
-# Steps I Took to Install SASS (Syntactically Awesome Style Sheets)
+Steps I Took to Install SASS (Syntactically Awesome Style Sheets)
 
-- I checked if I had Node.js installed already since its needed to install SASS.
+1. I checked if I had Node.js installed already since its needed to install SASS.
 
-- I opened my terminal and typed `npm install -g sass`.
+2. I opened my terminal and typed `npm install -g sass`.
+
